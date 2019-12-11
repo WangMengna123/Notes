@@ -1,9 +1,9 @@
 # Redis's notes
 </br>
-## the note is for newcomer.
+the note is for newcomer.
 </br>
-## and I will make it perfect in the future.
+and I will make it perfect in the future.
 </br>
-### ummm... 
+ummm... 
 </br>
-### maybe...
+maybe...
