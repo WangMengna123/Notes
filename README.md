@@ -1,9 +1,7 @@
-# Redis's notes
+# This is my Notes!
+
 </br>
-the note is for newcomer.
-</br>
-and I will make it perfect in the future.
-</br>
-ummm... 
-</br>
-maybe...
+
+* Redis
+* Linux
+* Elasticsearch 
